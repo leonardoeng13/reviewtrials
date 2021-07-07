@@ -25,3 +25,8 @@ ul {
   font-size: 10px;
   text-align: center;
 }
+#tribute-info {
+  color: brown;
+  border: 1px solid black;
+  text-align: center;
+}
