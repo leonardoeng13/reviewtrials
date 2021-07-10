@@ -1,0 +1,36 @@
+.text-content {
+  background-color: burlywood;
+  display: grid;
+  padding: 10px;
+  margin: 20px;
+  grid-column-gap: 10px;
+  grid-row-gap: 10px;
+  grid-template-columns: 200px 200px auto;
+}
+
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 45%;
+  padding: 20px;
+}
+
+ul {
+  color: darkgreen;
+  text-align: justify;
+  font-family: Arial, 'Franklin Gothic Medium', 'Arial Narrow', sans-serif;
+  font-size: 10px;
+}
+
+#image-label {
+  font-style: italic;
+  font-size: 10px;
+  text-align: center;
+}
+
+#tribute-info {
+  color: brown;
+  border: 1px solid black;
+  text-align: center;
+}

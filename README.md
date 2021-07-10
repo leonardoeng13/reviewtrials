@@ -4,7 +4,7 @@
 
 > Project Microverse Trials Code Review
 
-![screenshot](./app_screenshot.png)
+![screenshot](norman.png)
 
 This exercise was made to us make some improvements to your trial code, use the linter tool to check the source, and for us training how to be a code reviewer.
 
